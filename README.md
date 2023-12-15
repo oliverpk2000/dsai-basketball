@@ -80,7 +80,10 @@ blocks per game
 turnovers per game
 
 ### PF
-personal fouls commited per game
+personal fouls committed per game
+
+### PTS
+points per game
 
 ### Season
 NBA season in which the player recorded these statistics
